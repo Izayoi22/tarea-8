@@ -1,11 +1,11 @@
 H1{
     text-align: center;
-    padding: 10PX;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20PX;
+    font-family: 'Times New Roman', Times, serif
 }
 
 p{
-    text-align:center;
+    text-align:left;
     padding: 3px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
