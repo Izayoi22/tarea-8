@@ -1,12 +1,11 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
-
-import '@fortawesome/fontawesome-free'
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
+import { PlatoAdicionalComponent } from './plato-adicional/plato-adicional.component';
 
 
 @NgModule({
@@ -14,6 +13,7 @@ import { FooterComponent } from './footer/footer.component';
     AppComponent,
     HeaderComponent,
     FooterComponent,
+    PlatoAdicionalComponent,
   ],
   imports: [
     BrowserModule,

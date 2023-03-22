@@ -1,5 +1,5 @@
 nav {
-  background-color: rgb(236, 2, 45);
+  background-color: rgb(177, 2, 236);
   height: 50px;
 }
 
@@ -8,7 +8,7 @@ ul {
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
   height: 100%;
 }
